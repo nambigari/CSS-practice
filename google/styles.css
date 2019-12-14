@@ -1,0 +1,75 @@
+
+body{
+	margin: 0px 0px 0px 0px;
+}
+#navBarDiv{
+	height:10%;
+	text-align:right;
+}
+
+.navBarItem{
+	display:inline-block;
+	margin:10px 10px 10px 10px;
+}
+
+#mainDiv{
+	line-height: 80%;
+	height:80%;
+	text-align:center;
+	
+}
+
+#mainDivContainer{
+
+}
+
+#searchBar{
+	width: 500px;
+	border:1px solid;
+}
+
+.mainDivItem{
+	margin: 10px 10px 10px 10px;
+}
+
+#bottomBar{
+	background-color:lightgray;
+	height:5%;
+	border:1px solid; 
+	border-color: gray;
+	vertical-align: center;
+}
+
+#bottomLeftOptionsContainer{
+	width:50%;
+	display:inline-block;
+}
+
+#bottomRightOptionsContainer{
+	text-align:right;
+	width:49%;
+	display:inline-block;
+}
+
+.bottomLeftOptions{
+	display:inline-block;
+	margin:5px 10px 10px 0px;
+}
+
+.bottomRightOptions{
+	display:inline-block;
+	margin:5px 10px 10px 0px;
+}
+
+a{
+	text-decoration:none;
+}
+
+#bottomBar a {
+	color : gray;
+}
+
+
+* {
+    font-family: sans-serif;
+}
